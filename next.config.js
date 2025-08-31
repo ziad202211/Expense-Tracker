@@ -1,6 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',   // this tells Next.js to generate /out
-};
+const nextConfig = {}
 
-module.exports = nextConfig;
+module.exports = nextConfig
